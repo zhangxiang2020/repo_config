@@ -5,7 +5,7 @@ spring:
     name: edu-ad-boot
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://192.168.52.128:3306/edu_ad?useUnicode=true&characterEncoding=utf8&serverTimezone=UTC
+    url: jdbc:mysql://192.168.230.128:3306/edu_ad?useUnicode=true&characterEncoding=utf8&serverTimezone=UTC
     username: root
     password: Xiang@666
 eureka:
